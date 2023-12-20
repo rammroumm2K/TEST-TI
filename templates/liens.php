@@ -7,10 +7,11 @@
     <title><?=$title?></title>
 </head>
 <body>
-<header>
+
+<div id="global">
     <?php include 'inc/banniere.php'; ?>
    
-</header>  
+
  <main >
     
     <h1>Quelques liens vers nos partenaires.</h1>
@@ -51,6 +52,7 @@
 </table>
 
  </main>
+</div>
     
 </body>
 </html>

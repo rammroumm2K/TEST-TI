@@ -7,10 +7,11 @@
     <title><?=$title?></title>
 </head>
 <body>
-<header>
+
+<div id="global">
     <?php include 'inc/banniere.php'; ?>
     
-</header>  
+
 
 <main >
 
@@ -123,6 +124,7 @@ Parmi les autres édifices religieux de la ville, on note le Monastère de Saint
 
 
 </main>
+</div>
     
 </body>
 </html>

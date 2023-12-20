@@ -7,10 +7,11 @@
     <title><?=$title?></title>
 </head>
 <body>
-<header>
+
+<div id="global">
     <?php include 'inc/banniere.php'; ?>
    
-</header>  
+
 
     <main >
 
@@ -33,6 +34,7 @@
     
 
     </main>
+    </div>
     
 </body>
 </html>

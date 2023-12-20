@@ -7,10 +7,11 @@
     <title><?=$title?></title>
 </head>
 <body>
-<header>
+
+<div id="global">
     <?php include 'inc/banniere.php'; ?>
     
-</header>  
+
 
     <main >
         <h1>Histoire.</h1>
@@ -92,7 +93,7 @@ Le 3 novembre 2005, Lisbonne accueille, dans le Pavilhão Atlântico, les récom
     </main>
 
 
-
+    </div>
 
 
 

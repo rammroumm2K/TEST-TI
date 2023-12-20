@@ -1,4 +1,4 @@
-<nav class=navigatore>
+<nav class="navigatore">
 
     <a href="./">Accueil</a>
     <a href="?p=geo">Géographie</a>

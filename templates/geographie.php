@@ -7,10 +7,11 @@
     <title><?=$title?></title>
 </head>
 <body>
-<header>
+
+<div id="global">
     <?php include 'inc/banniere.php'; ?>
    
-</header>
+
 
     <main >
         <h1>Entre Océan Atlantique et Collines Pittoresques, une Capitale à l'Équilibre Climatique Méditerranéen</h1>
@@ -42,6 +43,6 @@ Lisbonne est la capitale la plus occidentale d'Europe continentale. Elle est sit
     <p>Si les précipitations annuelles atteignent environ 800 mm par an, on ne compte qu'une centaine de jours de pluie par an, pour la plupart entre octobre et avril16. Proche de l'océan Atlantique, il était dit que le climat de Lisbonne était le meilleur et le plus tempéré de toute la péninsule Ibérique, avec peu de jours d'intense chaleur et peu de jours de gel.
 </p><br>
     </main>
-    
+    </div>
 </body>
 </html>

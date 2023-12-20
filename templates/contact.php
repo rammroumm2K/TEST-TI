@@ -8,10 +8,11 @@
 </head>
 <body>
 
-<header>
+
+<div id="global">
     <?php include 'inc/banniere.php'; ?>
    
-</header>  
+  
 <main >
     <h1>Pour nous contacter.</h1>
     <p><img src="img/contacts.jpg" alt=""></p>
@@ -50,6 +51,6 @@
 
 
 </main>
-    
+</div>
 </body>
 </html>
